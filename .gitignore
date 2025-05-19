@@ -1,0 +1,19 @@
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# MongoDB data folder
+backend/data/db/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# dotenv
+*.env
+**/*.env
+
+# OS files
+.DS_Store
+Thumbs.db
